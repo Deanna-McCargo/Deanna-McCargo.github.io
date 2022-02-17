@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #181ed8;
+}
+#navbar #logo {
+    width: 100%;
+}
+#navbar nav {
+    display: flex;
+    width: 100%;
+}
+nav a {
+    align-items: space-between;
+    font-family: 'Kaushan Script', cursive;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav a:hover {
+    font-weight: 300;
+}
+
+#hero {
+    display: flex;
+    width: 100%;
+}
+
+#services-offered {
+    width: 100%;
+}
+
+#services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+}
+#services-offered p {
+    text-align: center;
+}
+
+#services div {
+    width: 300px;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#services div h3 {
+    padding-top: 5px;
+    background-color: darkblue;
+    overflow: hidden;
+}
+
+}
+#services div h3 {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    width: 
+}
+
+#description {
+    text-align:justify;
+    width: 100%;
+}
+
+#main-image {
+    width: 50%;
+}
+
+#main-image img {
+    width: 100%;
+    padding-top: 25px;
+}
+
+#right-side {
+    width: 50%;
+    padding-top: 25px;
+    margin-left: 25px;
+}
+
+#slides img {
+    margin: 0 auto;
+    width: 30%;
+}
+#sldie {
+    width: 75%;
+}
+
+#video1 video {
+
+    display: flex;
+    margin-top: 25px;
+    align-items: center;
+    width: 100%
+}
+#fb-posts {
+    width: 900px;
+}
+.fb-post {
+    margin-bottom: 10px;
+}
+
