@@ -117,4 +117,11 @@ h1 {
 footer {
     text-align: center;
     width: 100%;
+    background-color: #181ed8;
+    height: 100px;
+
+}
+
+footer div {
+padding-top: 40px;
 }
